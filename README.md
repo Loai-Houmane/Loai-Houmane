@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/a.gif" alt="Your GIF" title="Your GIF">
+  <img src="/assets/Top.gif" alt="Your GIF" title="Your GIF">
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=LOAI-HOUMANE">
@@ -8,7 +8,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8c293f60-c1c4-4ec7-a143-f51d5c98aa38.svg)](https://wakatime.com/@8c293f60-c1c4-4ec7-a143-f51d5c98aa38)
 
-<p align="center">Hey There!, I am <a href="https://loaihoumaneportfolio.netlify.app">Loai Houmane</a>.</p>
+
 <p> 
   <samp>
 I am a <span style="font-weight: bold; color: #FFD700;">Computer Engineer graduate from ENSA Berrechid</span>, specializing in AI and computer vision software. I develop applications for <span style="font-weight: bold; color: #FFD700;">mobile 📱, desktop 🖥️, and web 🌐</span> platforms, focusing on anomaly detection and machine learning with PyTorch <span style="font-weight: bold; color: #FFD700;">🤖</span>.

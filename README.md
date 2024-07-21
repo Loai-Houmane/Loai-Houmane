@@ -1,11 +1,6 @@
-<div style="position: relative; display: inline-block; width: 100%;">
-    <img src="a.gif" alt="Your GIF" style="width: 100%; height: auto; display: block;"/>
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; text-align: center;">
-        <samp>$$\textcolor{#FFD700}{\textgreater\ Hey\ There!,\ I\ am}$$ <br>
-            <b><a target="_blank" href="https://loaihoumaneportfolio.netlify.app/" style="color: #FFD700;">Loai Houmane</a></b>
-        </samp>
-    </div>
-</div>
+![Your GIF](/assets/a.gif "Your GIF")
+
+
 
 <a href="https://komarev.com/ghpvc/?username=LOAI-HOUMANE">
   <img align="right" src="https://komarev.com/ghpvc/?username=LOAI-HOUMANE&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -13,11 +8,12 @@
 
 [![wakatime](https://wakatime.com/badge/user/8c293f60-c1c4-4ec7-a143-f51d5c98aa38.svg)](https://wakatime.com/@8c293f60-c1c4-4ec7-a143-f51d5c98aa38)
 
-<p align="center"> 
+<p align="center">Hey There!, I am <a href="https://loaihoumaneportfolio.netlify.app">Loai Houmane</a>.</p>
+<p> 
   <samp>
-    Hello! I am a $$\textcolor{#FFD700}{\textbf{Computer\ Engineer\ graduate\ from\ ENSA\ Berrechid}}$$, specializing in AI and computer vision software. I develop applications for $$\textcolor{#FFD700}{\textbf{mobile\ 📱,\ desktop\ 🖥️,\ and\ web\ 🌐}}$$ platforms, focusing on anomaly detection and machine learning with PyTorch $$\textcolor{#FFD700}{\textbf{🤖}}$$.
+I am a <span style="font-weight: bold; color: #FFD700;">Computer Engineer graduate from ENSA Berrechid</span>, specializing in AI and computer vision software. I develop applications for <span style="font-weight: bold; color: #FFD700;">mobile 📱, desktop 🖥️, and web 🌐</span> platforms, focusing on anomaly detection and machine learning with PyTorch <span style="font-weight: bold; color: #FFD700;">🤖</span>.
     <br>
-    I also create video games with Unity $$\textcolor{#FFD700}{\textbf{🎮}}$$, with hundreds of downloads, and develop AR, VR, and MR applications $$\textcolor{#FFD700}{\textbf{🕶️}}$$.
+    I also create video games with Unity <span style="font-weight: bold; color: #FFD700;">🎮</span>, with hundreds of downloads, and develop AR, VR, and MR applications <span style="font-weight: bold; color: #FFD700;">🕶️</span>.
     <br>
     <br>
     Connect with me to learn more!
@@ -50,8 +46,6 @@
 <br/>
 <br/>
 
-## Use To Code
-
 ### Frameworks:
 <img src="https://skillicons.dev/icons?i=flutter,spring,react" />
 
@@ -62,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,unity,photoshop,blender,vscode,nodejs,figma,sublime" />
 
 ### Databases:
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 
 ### Operating Systems:
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />

@@ -1,6 +1,6 @@
-![Your GIF](/assets/a.gif "Your GIF")
-
-
+<p align="center">
+  <img src="/assets/a.gif" alt="Your GIF" title="Your GIF">
+</p>
 
 <a href="https://komarev.com/ghpvc/?username=LOAI-HOUMANE">
   <img align="right" src="https://komarev.com/ghpvc/?username=LOAI-HOUMANE&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />

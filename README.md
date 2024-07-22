@@ -16,10 +16,9 @@ I am a <span style="font-weight: bold; color: #FFD700;">Computer Engineer gradua
     I also create video games with Unity <span style="font-weight: bold; color: #FFD700;">🎮</span>, with hundreds of downloads, and develop AR, VR, and MR applications <span style="font-weight: bold; color: #FFD700;">🕶️</span>.
     <br>
     <br>
-    Connect with me to learn more!
   </samp>
 </p>
-
+<p align="center"> Connect with me to learn more!</p>
 <p align="center">
  <a href="https://loaihoumaneportfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="LOAI-HOUMANE" />
@@ -31,39 +30,57 @@ I am a <span style="font-weight: bold; color: #FFD700;">Computer Engineer gradua
 <br />
 
 <!-- About Section -->
-# About me
+# :bust_in_silhouette: About me
 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Houmaneloai413@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/LOAI-HOUMANE/LOAI-HOUMANE/issues)
-</p>
+<table>
+<tr>
+<td>
+
+- **Enjoy programming and sharing knowledge**  
+  I find joy in coding and the exchange of knowledge.
+
+- **Love writing code and learning new features**  
+  Passionate about exploring new technologies and coding practices.
+
+- **Reach out anytime**  
+  📧 Houmaneloai413@gmail.com
+
+- **Got questions?**  
+  💬 Feel free to ask anything [here](https://github.com/LOAI-HOUMANE/LOAI-HOUMANE/issues).
+
+</td>
+<td>
+
+![Coding gif](/assets/programmer.gif)
+
+</td>
+</tr>
+</table>
 
 <br/>
 <br/>
 <br/>
 
-### Frameworks:
+ # 💻Technology Stack Overview
+
+#### Frameworks:
 <img src="https://skillicons.dev/icons?i=flutter,spring,react" />
 
-### Programming Languages:
+#### Programming Languages:
 <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,java,html,javascript,css,lua,php" />
 
-### Tools and Platforms:
+#### Tools and Platforms:
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,unity,photoshop,blender,vscode,nodejs,figma,sublime" />
 
-### Databases:
+#### Databases:
 <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 
-### Operating Systems:
+#### Operating Systems:
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />
 
 <br/>
 
-## Top Open Source
+# 📖Top Open Source
 [![Anomaly detection](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=2D-Anomaly-Detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/2D-Anomaly-Detection)
 [![Qr Code Malware Detection](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=QR-Code-Malware-Detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/QR-Code-Malware-Detection)
 [![2D Anomaly Dataset Generator](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=2D-Anomaly-Dataset-Generator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/2D-Anomaly-Dataset-Generator)

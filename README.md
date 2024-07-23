@@ -83,8 +83,8 @@ I am a <span style="font-weight: bold; color: #FFD700;">Computer Engineer gradua
 # 📖Top Open Source
 [![Anomaly detection](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=2D-Anomaly-Detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/2D-Anomaly-Detection)
 [![Qr Code Malware Detection](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=QR-Code-Malware-Detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/QR-Code-Malware-Detection)
-[![2D Anomaly Dataset Generator](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=2D-Anomaly-Dataset-Generator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/2D-Anomaly-Dataset-Generator)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/Portfolio)
+[![SmartLensAI](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=SmartLensAI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/SmartLensAI)
+[![AR-Product-Nutrition](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=AR-Product-Nutrition&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/AR-Product-Nutrition)
 
 <p align="left">
   <a href="https://github.com/LOAI-HOUMANE?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

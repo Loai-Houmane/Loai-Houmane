@@ -81,6 +81,10 @@ I am a <span style="font-weight: bold; color: #FFD700;">Computer Engineer gradua
 <br/>
 
 # 📖Top Open Source
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 [![Anomaly detection](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=2D-Anomaly-Detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/2D-Anomaly-Detection)
 [![Qr Code Malware Detection](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=QR-Code-Malware-Detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/QR-Code-Malware-Detection)
 [![SmartLensAI](https://github-readme-stats.vercel.app/api/pin/?username=Loai-Houmane&repo=SmartLensAI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Loai-Houmane/SmartLensAI)

@@ -64,13 +64,13 @@ I am a <span style="font-weight: bold; color: #FFD700;">Computer Engineer gradua
  # 💻Technology Stack Overview
 
 #### Frameworks:
-<img src="https://skillicons.dev/icons?i=flutter,spring,react" />
+<img src="https://skillicons.dev/icons?i=flutter,spring,react,net" />
 
 #### Programming Languages:
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,java,html,javascript,css,lua,php" />
+<img src="https://skillicons.dev/icons?i=cs,c,cpp,python,dart,java,html,javascript,css,lua,php" />
 
 #### Tools and Platforms:
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,unity,photoshop,blender,vscode,nodejs,figma,sublime" />
+<img src="https://skillicons.dev/icons?i=git,github,unity,photoshop,blender,vscode,nodejs,figma,sublime" />
 
 #### Databases:
 <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
